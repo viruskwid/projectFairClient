@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
-import uploadProject from '../assets/images/fileUpload.png'
+import uploadProject from '../assets/images/fileupload.png'
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { addProjectAPI } from '../Services/allAPIs';
