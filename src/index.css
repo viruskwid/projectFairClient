@@ -1,0 +1,10 @@
+*{  
+    font-family: 'Rubik', sans-serif;
+
+    overflow-x: hidden;
+    box-sizing: border-box;
+    
+}
+::-webkit-scrollbar{
+    display: none;
+}
